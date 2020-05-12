@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/BasicCalculatorAlligator.csproj": {}
+  },
+  "projects": {
+    "/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/BasicCalculatorAlligator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/BasicCalculatorAlligator.csproj",
+        "projectName": "BasicCalculatorAlligator",
+        "projectPath": "/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/BasicCalculatorAlligator.csproj",
+        "packagesPath": "/Users/raydegroat/.nuget/packages/",
+        "outputPath": "/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raydegroat/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

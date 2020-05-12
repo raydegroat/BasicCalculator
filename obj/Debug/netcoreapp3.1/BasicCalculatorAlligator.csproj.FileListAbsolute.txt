@@ -1,0 +1,12 @@
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/bin/Debug/netcoreapp3.1/BasicCalculatorAlligator.deps.json
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/bin/Debug/netcoreapp3.1/BasicCalculatorAlligator.runtimeconfig.json
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/bin/Debug/netcoreapp3.1/BasicCalculatorAlligator.runtimeconfig.dev.json
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/bin/Debug/netcoreapp3.1/BasicCalculatorAlligator.dll
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/bin/Debug/netcoreapp3.1/BasicCalculatorAlligator.pdb
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.csprojAssemblyReference.cache
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.csproj.CoreCompileInputs.cache
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.AssemblyInfoInputs.cache
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.AssemblyInfo.cs
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.dll
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.pdb
+/Users/raydegroat/Projects/BasicCalculatorAlligator/BasicCalculatorAlligator/obj/Debug/netcoreapp3.1/BasicCalculatorAlligator.genruntimeconfig.cache
